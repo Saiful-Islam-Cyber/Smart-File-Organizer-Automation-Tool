@@ -29,7 +29,7 @@ A Python command-line utility built with Object-Oriented Programming (OOP) to cl
 
 1. **Clone the repository:**
    ```bash
-   git clone  https://github.com
+   git clone https://github.comSaiful-Islam-Cyber/Smart-File-Organizer-Automation-Tool.git
    
 
    cd "SMART FILE ORGANISER & AUTOMOTION TOOL"
