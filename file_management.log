@@ -5,3 +5,7 @@
 2026-11-12 17:40:55,842 - INFO - Moved: 'photo.jpg' -> 'Images/photo_1.jpg'
 2026-11-12 17:40:55,843 - INFO - Moved: 'script.py' -> 'Python Files/script.py'
 2026-11-12 17:40:55,844 - INFO - Moved: 'video.mp4' -> 'Videos/video.mp4'
+2026-11-12 18:56:53,840 - INFO - Moved: 'clip.mp4' -> 'Videos/clip.mp4'
+2026-11-12 18:56:53,905 - INFO - Moved: 'demo.py' -> 'Python Files/demo.py'
+2026-11-12 18:56:53,909 - INFO - Moved: 'notes.pdf' -> 'Documents/notes.pdf'
+2026-11-12 18:56:53,918 - INFO - Moved: 'pic.jpg' -> 'Images/pic.jpg'

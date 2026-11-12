@@ -1,10 +1,10 @@
 File Organizer Summary Report
-Executed on: 2026-11-12 17:40:55
+Executed on: 2026-11-12 18:56:53
 Target Directory: C:\Users\User\Desktop\TestFolder
 ========================================
 Images: 1 files processed
-Documents: 0 files processed
+Documents: 1 files processed
 Videos: 1 files processed
 Python Files: 1 files processed
-Others: 1 files processed
+Others: 0 files processed
 ========================================
